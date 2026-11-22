@@ -1,0 +1,16 @@
+Regression and Classification (EX2)
+
+Python implementations for linear regression, polynomial fitting,
+and 2D classification decision boundary comparisons.
+
+Code Modules:
+- linear_regression.py: LinearRegression model implementation.
+- house_price_prediction.py: Train/test split, preprocessing, and
+  sampling loss evaluation on housing data.
+- polynomial_fitting.py: PolynomialFitting model built on linear
+  regression features.
+- city_temperature_prediction.py: Data loading and polynomial degree
+  evaluation on daily temperatures in Israel.
+- classifiers_comparison.py: SVM, Decision Tree, and KNN comparisons
+  and decision boundary plots on synthetic datasets.
+- utils.py: Helper utilities for classification experiments.
