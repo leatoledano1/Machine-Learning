@@ -1,0 +1,12 @@
+Unsupervised Learning and Transformers (EX5)
+
+Exploration of PCA geometry, top-down clustering, multi-head attention,
+and GPT-2 static and contextualized embedding spaces.
+
+Contents:
+- Notebook: PCA and K-means analysis on GPT-2 static token embeddings
+  (first 10,000 tokens, K=100) and contextualized representations across
+  layers for a polysemous token.
+- Theoretical / Written Work: Subspace projections and reconstruction error
+  in PCA, top-down K-means clustering properties, and Multi-Head Attention
+  head permutation analysis.
