@@ -1,0 +1,17 @@
+Gradient-Based Learning and Neural Networks (EX3)
+
+Python implementations of Gradient Descent, Stochastic Gradient Descent,
+and a Feed-Forward Neural Network built from scratch.
+
+Code Modules:
+- gradient_descent.py: Generic Gradient Descent optimizer with callbacks and averaging.
+- gradient_descent_investigation.py: Fixed and exponential decay learning rate experiments.
+- learning_rate.py: FixedLR and ExponentialLR learning rate schedules.
+- modules.py: L1 and L2 objective modules.
+- stochastic_gradient_descent.py: Mini-batch Stochastic Gradient Descent optimizer.
+- nn_loss_functions.py: Softmax and Cross-Entropy loss functions.
+- nn_modules.py: FullyConnectedLayer, ReLU, and CrossEntropyLoss modules.
+- neural_network.py: Sequential forward pass and backpropagation network.
+- nn_simulated_data.py: 2D non-linearly separable classification and boundary plots.
+- nn_mnist_digit_classification.py: MNIST digit classification with SGD vs. GD.
+- nn_utils.py: Confusion matrix and neural network helper utilities.
