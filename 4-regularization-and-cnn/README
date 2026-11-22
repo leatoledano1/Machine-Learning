@@ -1,0 +1,14 @@
+Regularization and CNN (EX4)
+
+Python implementations of regularized logistic regression using gradient
+descent and a convolutional neural network (CNN) trained on CIFAR-10.
+
+Code Modules:
+- gradient_descent.py: Gradient descent optimizer used for training.
+- learning_rate.py: Learning rate schedule implementations.
+- modules.py: L1, L2, LogisticModule, and RegularizedModule components.
+- logistic_regression.py: LogisticRegression estimator with L1/L2 penalties.
+- regularization_main.py: ROC analysis and L1/L2 regularization experiments
+  on South Africa heart disease data.
+- train_cifar_cnn.py: PyTorch CNN architecture, training, and evaluation
+  on CIFAR-10.
